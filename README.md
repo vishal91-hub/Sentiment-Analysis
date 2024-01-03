@@ -55,9 +55,8 @@ Sentiment Analysis is the process of determining the sentiment or opinion expres
 
 ## Contributors
 
-- [Your Name](https://github.com/your_username)
-- [Contributor 1](https://github.com/contributor_1)
-- [Contributor 2](https://github.com/contributor_2)
+- [Vishal Singh](https://github.com/vishal91-hub)
+
 
 ## License
 
